@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+env/homologacao.env
+env/producao.env
+env/.env
+certs/homol
+certs/prod
