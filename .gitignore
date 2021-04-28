@@ -6,3 +6,5 @@ env/producao.env
 env/.env
 certs/homol
 certs/prod
+homol
+prod
